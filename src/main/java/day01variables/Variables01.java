@@ -108,7 +108,6 @@ public class Variables01 {
         //Long dememize rağmen sonuna L koymazsak eğer int aralığında ise java onu int kabul eder
 
 
-
         //float data type :
         //float virgullu sayilar (Decimal Numbar => ondalikli sayılar) için kullanılır(Fiyatlandırmalar - 12.999
 
@@ -136,10 +135,8 @@ public class Variables01 {
         System.out.println(note2);
 
         //System.out.println(); ekrana yazdırır ve bir sonraki satıra koyar
-        //System.out.print(); ekrana yazdırır ve pointer ı aynı satırda tutar
-
-
-/*
+        //System.out.print(); ekrana yazdırır ve pointer ı aynı satırdir
+ /*
 ctrl+x Kes
 ctrl+v Yapıştır
 ctrl+c kopyala

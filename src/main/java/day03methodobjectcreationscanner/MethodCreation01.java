@@ -18,7 +18,7 @@ public class MethodCreation01 {
         printConsole(str);
 
 
-        //Ornek 4: Verilen bir tamsayini karesini hesaplayıp console a yazdıran methodu oluşturup kullanınız.
+        //Ornek 4: Verilen bir tamsayinin  karesini hesaplayıp console a yazdıran methodu oluşturup kullanınız.
 
         int sayi = 5;
         karesiniAl(sayi);
