@@ -1,7 +1,5 @@
 package group_work_day01;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class Methods {
     double sayi1;//0
     double sayi2;//0
